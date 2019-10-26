@@ -38,8 +38,8 @@ position: absolute;
 }
 
 .ph{
-	/*position: relative;*/
-	position: absolute;
+	position: relative;
+	/*position: absolute;*/
 	left: 500px;
 	padding-top: 80px;
 }
