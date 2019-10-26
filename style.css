@@ -34,7 +34,9 @@ h2{
 }
 
 .ph1{
-position: absolute;
+position: relative;
+left: 200px;
+top:500px;
 }
 
 .ph{
