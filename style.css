@@ -1,0 +1,78 @@
+div{
+	background-color: #ffdfdf;
+}
+
+
+body{
+	background-color: ;
+	text-align: center;
+	font-family: 'Pacifico', cursive;
+	color: #315b96;
+
+}
+
+
+h1{
+	font-size: 60pt;
+
+}
+h2{
+	font-family: 'Montserrat Subrayada', sans-serif;
+	font-size: 35pt;
+}
+
+.container1{
+	position: absolute;
+}
+
+.ph1{
+position: absolute;
+}
+
+.ph{
+	position: relative;
+	left: 500px;
+	padding-top: 80px;
+}
+.bottom-container{
+	background-color: #233567;
+	top: 80px;
+}
+.middle-container{
+	background-color: white;
+	width: 50%;
+	margin: auto;
+	top: 80px;
+}
+.profile{
+	background-color: white;
+}
+
+.skill-row{
+	margin-top: 200px;
+}
+
+.profile{
+	margin-bottom: 200px;
+}
+.skills{
+	background-color: white;
+}
+.skill-row{
+	background-color: white;
+}
+
+.profileimg{
+	float: left;
+}
+.contact-me{
+	background-color: white;
+}
+
+.gogo{
+	float: left;
+}
+
+.skillspng{
+	float: left;
+}
