@@ -1,7 +1,10 @@
 body{
 	background-color: #c7f2e3;
+
 }
 .top{
+	display: flex;
+	align-content: center;
 	color: #132238;
 	font-family: 'Monoton', cursive;
 	font-size:35pt;
@@ -21,8 +24,3 @@ body{
 	position: absolute;
 }
 
-.top{
-	display: flex;
-	align-items: center;
-	
-}
