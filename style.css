@@ -47,11 +47,15 @@
 }
 
 .in{
-	margin-top: 50px;
+	
 	color: blue;
 	border-style: solid; 
 	border-radius: 5px;
 	padding: 10px;
 	font-size: 15pt;
 
+}
+
+.linket{
+	margin-top: 50px;
 }
