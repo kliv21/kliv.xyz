@@ -4,7 +4,7 @@ body{
 }
 .top{
 	display: flex;
-	align-content: center;
+	align-items:  center;
 	color: #132238;
 	font-family: 'Monoton', cursive;
 	font-size:35pt;
