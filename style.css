@@ -59,6 +59,7 @@
 .linket{
 	margin-top: 50px;
 	font-weight: bold;
+	color: #3e64ff;
 
 
 }
@@ -69,5 +70,6 @@
 }
 
 .txt2{
-	
+	font-family: 'Tinos', serif;
+
 }
