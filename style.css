@@ -3,8 +3,15 @@ body{
 
 }
 nav{
-	display: flex;
-	align-items:  center;
+	 width: 70px;
+  height: 300px;
+  border: 1px solid #c3c3c3;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-flex-wrap: wrap;
+  flex-wrap: wrap;
+  -webkit-align-content: center;
+  align-content: center;
 	color: #132238;
 	font-family: 'Monoton', cursive;
 	font-size:35pt;
