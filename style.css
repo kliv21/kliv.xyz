@@ -13,6 +13,10 @@ body{
 	font-size:20pt;
 }
 
+.ph{
+	position: absolute;
+	
+}
 .ph1{
 	position: absolute;
 }
