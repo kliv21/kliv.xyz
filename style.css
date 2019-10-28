@@ -18,7 +18,8 @@ body{
 }
 
 .ph{
-left: 100px;
+	margin-bottom: 50px;
+left: 50px;
 position: absolute;
 
 }
