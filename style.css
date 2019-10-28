@@ -14,9 +14,13 @@ body{
 }
 
 .ph{
-	position: absolute;
 	
+
 }
 .ph1{
 	position: absolute;
+}
+
+.top{
+	align-items: center;
 }
