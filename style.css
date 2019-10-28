@@ -7,7 +7,7 @@
 	font-size: 18pt;
 }
 
-.linket{
+/*.linket{
 	display: inline;
 	list-style: none;
     color: blue;
@@ -15,4 +15,13 @@
 	border-radius: 5px;
 	padding: 10px;
 	font-size: 15pt;
+}
+*/
+.Fb{
+    color: blue;
+	border-style: solid; 
+	border-radius: 5px;
+	padding: 10px;
+	font-size: 15pt;
+
 }
