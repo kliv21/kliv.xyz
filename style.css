@@ -18,11 +18,12 @@ body{
 }
 
 .ph{
-padding-top: 10px;	
+left: 100px;
 position: absolute;
 
 }
 .ph1{
 	position: absolute;
+	right: 100px;
 }
 
