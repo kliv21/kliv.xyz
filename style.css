@@ -12,3 +12,7 @@ body{
 	font-family: 'Schoolbell', cursive;
 	font-size:20pt;
 }
+
+.ph1{
+	position: relative;
+}
