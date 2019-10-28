@@ -58,5 +58,6 @@
 
 .linket{
 	margin-top: 50px;
+	display: flex;
 	align-items: center;
 }
