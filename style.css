@@ -22,5 +22,6 @@ body{
 }
 
 .top{
-	align-items: center;
+	justify-content: center;
+	
 }
