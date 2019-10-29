@@ -98,6 +98,7 @@
 }
 
 .city{
+	margin-top: 70px;
 	width: 100%;
 	height: auto;
 	transform: rotate(180deg);
