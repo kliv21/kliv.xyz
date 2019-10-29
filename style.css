@@ -108,3 +108,17 @@
 nav{
 	text-align: center;
 }
+
+.cl1{
+	position: absolute;
+	width: 25%;
+	height: auto;
+
+}
+
+.cl2{
+   position: absolute;
+   width: 25%;
+	height: auto;
+}
+
