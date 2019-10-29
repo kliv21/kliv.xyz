@@ -100,3 +100,8 @@
 	width: 100%;
 	height: auto;
 }
+.middle-container{
+	text-align: center;
+	font-family: 'Staatliches', cursive;
+	font-size: 42pt;
+}
