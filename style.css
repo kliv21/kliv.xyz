@@ -94,7 +94,7 @@
 
 }
 .but1{
-	align-items: center;
+	float: center;
 	margin-bottom: 30px;
 }
 hr{
