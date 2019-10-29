@@ -110,7 +110,7 @@ nav{
 }
 
 .cl1{
-	position: absolute;
+	position: relative;
 	width: 25%;
 	height: auto;
 	margin-right: 100px;
