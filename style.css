@@ -96,12 +96,16 @@
 .but1{
 	margin-bottom: 30px;
 }
+hr{
+	width: 50%;
+	height: auto;
+}
 
 .city{
 	margin-top: 70px;
 	width: 100%;
 	height: auto;
-	transform: rotate(180deg);
+	
 }
 .middle-container{
 	text-align: center;
