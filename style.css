@@ -111,7 +111,7 @@ nav{
 
 .cl1{
 	position: relative;
-	margin-left: 500px;
+	margin-left: 700px;
 	width: 25%;
 	height: auto;
 	
@@ -119,7 +119,8 @@ nav{
 }
 
 .cl2{
-   position: absolute;
+   position: relative;
+	margin-right: 700px;
    width: 25%;
 	height: auto;
 }
